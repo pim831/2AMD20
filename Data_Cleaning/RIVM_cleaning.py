@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 from pathlib import Path 
 
-in_path = "Raw_datasets/RIVM_datasets/"
-out_path = "Cleaned_datasets/RIVM_datasets/"
+in_path = "Data_Cleaning/Raw_datasets/RIVM_datasets/"
+out_path = "Data_Cleaning/Cleaned_datasets/RIVM_datasets/"
 
 # municipality_count = pd.read_csv(data_path + "COVID-19_aantallen_gemeente_cumulatief.csv", sep=";") # seems useless when also looking at daily count
 municipality_daily_count = pd.read_csv(in_path + "COVID-19_aantallen_gemeente_per_dag.csv", sep=";")
@@ -11,7 +11,7 @@ ic_count = pd.read_csv(in_path + "COVID-19_ic_opnames.csv", sep=";")
 
 # Drop Useless rows
 municipality_daily_count.drop(["Version", "Date_of_report"], axis=1, inplace=True)
-
+ic_count.drop(["Version", "Date_of_report", "IC_admission_notification"], axis=1, inplace=True)
 
 # Get national daily count of cases
 national_daily_count = municipality_daily_count.groupby("Date_of_publication").sum().reset_index()
@@ -30,8 +30,8 @@ def RowIncrease(target, columnName, df):
         Dataframe: resulting DataFrame with the added column named columnName
     """        
     df[columnName] = np.nan 
-    for i in range(1, len(df)):
-        df.loc[i, columnName] = df.loc[i-1, target] < df.loc[i, target]
+    for i in range(13, len(df)):
+        df.loc[i, columnName] = df.loc[i-13:i-7, target].mean() < df.loc[i-6:i, target].mean()
     return df
 
 # Add increase over day for Reported cases and deaths to nation_daily_count
