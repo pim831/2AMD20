@@ -1,807 +1,807 @@
-,Date_of_publication,Total_reported,Deceased,Cases_Increase,Deaths_Increase
-0,2020-02-28,1,0,,
-1,2020-02-29,1,0,,
-2,2020-03-01,3,0,,
-3,2020-03-02,5,0,,
-4,2020-03-03,4,0,,
-5,2020-03-04,10,0,,
-6,2020-03-05,17,0,,
-7,2020-03-06,40,0,,
-8,2020-03-07,50,1,,
-9,2020-03-08,32,1,,
-10,2020-03-09,61,1,,
-11,2020-03-10,130,0,,
-12,2020-03-11,123,1,,
-13,2020-03-12,127,0,True,True
-14,2020-03-13,113,3,True,True
-15,2020-03-14,219,3,True,True
-16,2020-03-15,173,7,True,True
-17,2020-03-16,270,4,True,True
-18,2020-03-17,288,18,True,True
-19,2020-03-18,347,16,True,True
-20,2020-03-19,396,21,True,True
-21,2020-03-20,533,29,True,True
-22,2020-03-21,637,31,True,True
-23,2020-03-22,605,43,True,True
-24,2020-03-23,553,32,True,True
-25,2020-03-24,749,62,True,True
-26,2020-03-25,843,80,True,True
-27,2020-03-26,1007,75,True,True
-28,2020-03-27,1167,114,True,True
-29,2020-03-28,1146,89,True,True
-30,2020-03-29,1092,125,True,True
-31,2020-03-30,873,90,True,True
-32,2020-03-31,834,172,True,True
-33,2020-04-01,1008,134,True,True
-34,2020-04-02,1083,164,True,True
-35,2020-04-03,1020,142,True,True
-36,2020-04-04,1002,177,True,True
-37,2020-04-05,1099,105,True,True
-38,2020-04-06,945,101,True,True
-39,2020-04-07,782,232,False,True
-40,2020-04-08,959,148,False,True
-41,2020-04-09,1208,145,False,True
-42,2020-04-10,1327,114,True,True
-43,2020-04-11,1301,134,True,False
-44,2020-04-12,1171,94,True,False
-45,2020-04-13,959,85,True,False
-46,2020-04-14,862,122,True,False
-47,2020-04-15,730,185,True,False
-48,2020-04-16,1069,185,True,False
-49,2020-04-17,1234,144,True,False
-50,2020-04-18,1186,144,False,False
-51,2020-04-19,1023,80,False,False
-52,2020-04-20,748,65,False,False
-53,2020-04-21,716,162,False,True
-54,2020-04-22,708,141,False,True
-55,2020-04-23,874,129,False,False
-56,2020-04-24,805,111,False,False
-57,2020-04-25,647,120,False,False
-58,2020-04-26,651,65,False,False
-59,2020-04-27,405,43,False,False
-60,2020-04-28,193,58,False,False
-61,2020-04-29,388,136,False,False
-62,2020-04-30,507,82,False,False
-63,2020-05-01,478,100,False,False
-64,2020-05-02,437,93,False,False
-65,2020-05-03,338,69,False,False
-66,2020-05-04,201,27,False,False
-67,2020-05-05,319,82,False,False
-68,2020-05-06,319,40,False,False
-69,2020-05-07,361,84,False,False
-70,2020-05-08,319,72,False,False
-71,2020-05-09,288,64,False,False
-72,2020-05-10,242,18,False,False
-73,2020-05-11,179,16,False,False
-74,2020-05-12,195,56,False,False
-75,2020-05-13,223,49,False,False
-76,2020-05-14,274,29,False,False
-77,2020-05-15,202,54,False,False
-78,2020-05-16,194,25,False,False
-79,2020-05-17,125,11,False,False
-80,2020-05-18,148,16,False,False
-81,2020-05-19,111,21,False,False
-82,2020-05-20,187,32,False,False
-83,2020-05-21,254,28,False,False
-84,2020-05-22,184,13,False,False
-85,2020-05-23,177,22,False,False
-86,2020-05-24,173,11,False,False
-87,2020-05-25,213,8,False,False
-88,2020-05-26,129,23,True,False
-89,2020-05-27,194,15,True,False
-90,2020-05-28,178,31,True,False
-91,2020-05-29,178,25,True,False
-92,2020-05-30,141,21,True,False
-93,2020-05-31,176,3,False,False
-94,2020-06-01,104,6,False,False
-95,2020-06-02,95,4,False,False
-96,2020-06-03,93,12,False,False
-97,2020-06-04,188,15,False,False
-98,2020-06-05,217,13,False,False
-99,2020-06-06,190,7,False,False
-100,2020-06-07,239,3,False,False
-101,2020-06-08,166,3,True,False
-102,2020-06-09,164,16,True,False
-103,2020-06-10,181,12,True,False
-104,2020-06-11,162,3,True,False
-105,2020-06-12,207,9,True,False
-106,2020-06-13,181,4,True,False
-107,2020-06-14,144,2,True,False
-108,2020-06-15,159,6,True,False
-109,2020-06-16,134,5,False,False
-110,2020-06-17,113,4,False,False
-111,2020-06-18,124,4,False,False
-112,2020-06-19,108,3,False,False
-113,2020-06-20,90,8,False,False
-114,2020-06-21,95,1,False,False
-115,2020-06-22,68,0,False,False
-116,2020-06-23,70,6,False,False
-117,2020-06-24,80,2,False,False
-118,2020-06-25,110,3,False,False
-119,2020-06-26,93,3,False,False
-120,2020-06-27,77,2,False,False
-121,2020-06-28,66,0,False,False
-122,2020-06-29,76,2,False,False
-123,2020-06-30,57,5,False,False
-124,2020-07-01,62,3,False,False
-125,2020-07-02,75,3,False,False
-126,2020-07-03,76,2,False,False
-127,2020-07-04,65,6,False,True
-128,2020-07-05,72,1,False,True
-129,2020-07-06,41,1,False,True
-130,2020-07-07,34,4,False,True
-131,2020-07-08,57,3,False,True
-132,2020-07-09,60,2,False,True
-133,2020-07-10,65,1,False,True
-134,2020-07-11,84,4,False,False
-135,2020-07-12,95,0,False,False
-136,2020-07-13,72,0,True,False
-137,2020-07-14,98,11,True,True
-138,2020-07-15,109,1,True,False
-139,2020-07-16,119,2,True,False
-140,2020-07-17,109,2,True,True
-141,2020-07-18,145,1,True,True
-142,2020-07-19,145,0,True,True
-143,2020-07-20,183,0,True,True
-144,2020-07-21,169,1,True,False
-145,2020-07-22,170,3,True,False
-146,2020-07-23,164,0,True,False
-147,2020-07-24,155,0,True,False
-148,2020-07-25,184,1,True,False
-149,2020-07-26,213,0,True,False
-150,2020-07-27,209,1,True,False
-151,2020-07-28,224,4,True,True
-152,2020-07-29,248,2,True,False
-153,2020-07-30,341,0,True,True
-154,2020-07-31,341,0,True,True
-155,2020-08-01,431,1,True,True
-156,2020-08-02,359,1,True,True
-157,2020-08-03,372,0,True,True
-158,2020-08-04,487,2,True,False
-159,2020-08-05,428,3,True,False
-160,2020-08-06,605,0,True,False
-161,2020-08-07,517,1,True,False
-162,2020-08-08,484,3,True,True
-163,2020-08-09,577,0,True,False
-164,2020-08-10,787,0,True,True
-165,2020-08-11,620,2,True,True
-166,2020-08-12,651,2,True,True
-167,2020-08-13,576,4,True,True
-168,2020-08-14,627,2,True,True
-169,2020-08-15,656,2,True,True
-170,2020-08-16,499,3,True,True
-171,2020-08-17,486,1,True,True
-172,2020-08-18,493,3,False,True
-173,2020-08-19,553,9,False,True
-174,2020-08-20,531,5,False,True
-175,2020-08-21,533,1,False,True
-176,2020-08-22,507,5,False,True
-177,2020-08-23,455,1,False,True
-178,2020-08-24,573,3,False,True
-179,2020-08-25,416,3,False,True
-180,2020-08-26,572,8,False,True
-181,2020-08-27,508,3,False,False
-182,2020-08-28,501,3,False,True
-183,2020-08-29,503,4,False,False
-184,2020-08-30,506,0,True,False
-185,2020-08-31,526,0,False,False
-186,2020-09-01,467,6,True,False
-187,2020-09-02,720,5,True,False
-188,2020-09-03,599,3,True,False
-189,2020-09-04,743,1,True,False
-190,2020-09-05,649,5,True,False
-191,2020-09-06,920,2,True,False
-192,2020-09-07,795,0,True,True
-193,2020-09-08,968,1,True,False
-194,2020-09-09,1140,3,True,False
-195,2020-09-10,837,2,True,False
-196,2020-09-11,1271,3,True,False
-197,2020-09-12,1222,1,True,False
-198,2020-09-13,1087,1,True,False
-199,2020-09-14,1297,2,True,False
-200,2020-09-15,1376,2,True,False
-201,2020-09-16,1537,3,True,False
-202,2020-09-17,1739,5,True,True
-203,2020-09-18,1955,6,True,True
-204,2020-09-19,1892,4,True,True
-205,2020-09-20,1844,3,True,True
-206,2020-09-21,2211,2,True,True
-207,2020-09-22,2237,10,True,True
-208,2020-09-23,2334,8,True,True
-209,2020-09-24,2536,14,True,True
-210,2020-09-25,2764,17,True,True
-211,2020-09-26,2700,36,True,True
-212,2020-09-27,2976,9,True,True
-213,2020-09-28,2901,9,True,True
-214,2020-09-29,3004,10,True,True
-215,2020-09-30,3286,14,True,True
-216,2020-10-01,3253,13,True,True
-217,2020-10-02,3804,10,True,True
-218,2020-10-03,3935,17,True,False
-219,2020-10-04,3983,5,True,False
-220,2020-10-05,4555,9,True,False
-221,2020-10-06,4519,29,True,False
-222,2020-10-07,4972,26,True,False
-223,2020-10-08,5783,12,True,False
-224,2020-10-09,5960,16,True,True
-225,2020-10-10,6478,20,True,True
-226,2020-10-11,6342,18,True,True
-227,2020-10-12,6803,13,True,True
-228,2020-10-13,7332,38,True,True
-229,2020-10-14,7251,28,True,True
-230,2020-10-15,7777,27,True,True
-231,2020-10-16,7950,20,True,True
-232,2020-10-17,8105,26,True,True
-233,2020-10-18,8148,13,True,True
-234,2020-10-19,7986,28,True,True
-235,2020-10-20,8144,42,True,True
-236,2020-10-21,8715,59,True,True
-237,2020-10-22,9251,42,True,True
-238,2020-10-23,9972,51,True,True
-239,2020-10-24,8642,48,True,True
-240,2020-10-25,10168,26,True,True
-241,2020-10-26,10303,29,True,True
-242,2020-10-27,10266,71,True,True
-243,2020-10-28,8077,50,True,True
-244,2020-10-29,10245,66,True,True
-245,2020-10-30,11066,86,True,True
-246,2020-10-31,9771,53,True,True
-247,2020-11-01,8679,29,True,True
-248,2020-11-02,8264,36,True,True
-249,2020-11-03,7738,111,False,True
-250,2020-11-04,7600,109,False,True
-251,2020-11-05,6946,88,False,True
-252,2020-11-06,7226,114,False,True
-253,2020-11-07,6616,62,False,True
-254,2020-11-08,5656,44,False,True
-255,2020-11-09,4669,46,False,True
-256,2020-11-10,4644,95,False,True
-257,2020-11-11,5383,82,False,True
-258,2020-11-12,5618,74,False,True
-259,2020-11-13,6067,60,False,False
-260,2020-11-14,5897,73,False,False
-261,2020-11-15,5418,50,False,False
-262,2020-11-16,4842,48,False,False
-263,2020-11-17,4280,84,False,False
-264,2020-11-18,4583,86,False,False
-265,2020-11-19,5686,67,False,False
-266,2020-11-20,5931,47,False,False
-267,2020-11-21,6004,47,False,False
-268,2020-11-22,5358,20,False,False
-269,2020-11-23,5181,64,False,False
-270,2020-11-24,3947,89,False,False
-271,2020-11-25,4910,72,True,False
-272,2020-11-26,4468,75,False,False
-273,2020-11-27,5751,81,False,False
-274,2020-11-28,4465,54,False,True
-275,2020-11-29,5565,25,False,True
-276,2020-11-30,4572,32,False,True
-277,2020-12-01,4038,55,False,False
-278,2020-12-02,4908,66,False,False
-279,2020-12-03,5594,60,False,False
-280,2020-12-04,5891,57,False,False
-281,2020-12-05,6529,35,True,False
-282,2020-12-06,6761,24,True,False
-283,2020-12-07,7094,24,True,False
-284,2020-12-08,6119,66,True,False
-285,2020-12-09,6544,72,True,False
-286,2020-12-10,8709,59,True,False
-287,2020-12-11,8837,61,True,False
-288,2020-12-12,9122,51,True,True
-289,2020-12-13,9877,29,True,True
-290,2020-12-14,8461,37,True,True
-291,2020-12-15,6630,90,True,True
-292,2020-12-16,11166,76,True,True
-293,2020-12-17,12778,71,True,True
-294,2020-12-18,11956,82,True,True
-295,2020-12-19,12224,58,True,True
-296,2020-12-20,12997,29,True,True
-297,2020-12-21,11156,41,True,True
-298,2020-12-22,9822,109,True,True
-299,2020-12-23,10390,96,True,True
-300,2020-12-24,11494,92,True,True
-301,2020-12-25,11495,91,True,True
-302,2020-12-26,9815,48,True,True
-303,2020-12-27,9005,32,False,True
-304,2020-12-28,7398,41,False,True
-305,2020-12-29,7518,171,False,True
-306,2020-12-30,9449,113,False,True
-307,2020-12-31,9664,107,False,True
-308,2021-01-01,8169,92,False,True
-309,2021-01-02,8589,40,False,True
-310,2021-01-03,7396,52,False,True
-311,2021-01-04,6632,72,False,True
-312,2021-01-05,6369,187,False,True
-313,2021-01-06,7089,128,False,True
-314,2021-01-07,9677,84,False,True
-315,2021-01-08,8112,92,False,True
-316,2021-01-09,7330,134,False,True
-317,2021-01-10,6602,53,False,True
-318,2021-01-11,5448,60,False,True
-319,2021-01-12,4942,143,False,True
-320,2021-01-13,6091,117,False,True
-321,2021-01-14,6499,85,False,True
-322,2021-01-15,6025,95,False,True
-323,2021-01-16,5295,100,False,False
-324,2021-01-17,5582,37,False,False
-325,2021-01-18,4784,57,False,False
-326,2021-01-19,4294,110,False,False
-327,2021-01-20,5569,86,False,False
-328,2021-01-21,5805,95,False,False
-329,2021-01-22,5744,82,False,False
-330,2021-01-23,5446,83,False,False
-331,2021-01-24,4881,35,False,False
-332,2021-01-25,4089,45,False,False
-333,2021-01-26,3959,80,False,False
-334,2021-01-27,4725,72,False,False
-335,2021-01-28,4691,76,False,False
-336,2021-01-29,4397,66,False,False
-337,2021-01-30,4172,79,False,False
-338,2021-01-31,3677,39,False,False
-339,2021-02-01,3238,38,False,False
-340,2021-02-02,3548,77,False,False
-341,2021-02-03,4018,60,False,False
-342,2021-02-04,4199,65,False,False
-343,2021-02-05,4317,62,False,False
-344,2021-02-06,4088,60,False,False
-345,2021-02-07,3918,45,False,False
-346,2021-02-08,2257,30,False,False
-347,2021-02-09,1759,87,False,False
-348,2021-02-10,3173,82,False,False
-349,2021-02-11,4427,65,False,True
-350,2021-02-12,4327,80,False,True
-351,2021-02-13,4172,48,False,True
-352,2021-02-14,3425,28,False,True
-353,2021-02-15,2842,23,False,True
-354,2021-02-16,2690,93,True,True
-355,2021-02-17,3368,94,True,False
-356,2021-02-18,4558,67,True,True
-357,2021-02-19,4676,46,True,False
-358,2021-02-20,4539,62,True,False
-359,2021-02-21,4669,20,True,False
-360,2021-02-22,4179,33,True,True
-361,2021-02-23,3809,93,True,False
-362,2021-02-24,4368,63,True,False
-363,2021-02-25,4985,29,True,False
-364,2021-02-26,5089,71,True,False
-365,2021-02-27,4922,37,True,False
-366,2021-02-28,4634,17,True,False
-367,2021-03-01,3749,21,True,False
-368,2021-03-02,3965,66,True,False
-369,2021-03-03,5022,49,True,False
-370,2021-03-04,4092,31,True,False
-371,2021-03-05,4662,31,False,False
-372,2021-03-06,5312,41,False,False
-373,2021-03-07,4508,29,False,False
-374,2021-03-08,3884,36,False,False
-375,2021-03-09,4286,53,True,False
-376,2021-03-10,5258,26,False,False
-377,2021-03-11,5297,48,True,False
-378,2021-03-12,5975,30,True,True
-379,2021-03-13,6375,19,True,False
-380,2021-03-14,5953,24,True,False
-381,2021-03-15,5502,22,True,False
-382,2021-03-16,4942,30,True,False
-383,2021-03-17,5908,47,True,False
-384,2021-03-18,6131,34,True,False
-385,2021-03-19,7348,41,True,False
-386,2021-03-20,7602,18,True,False
-387,2021-03-21,6970,16,True,False
-388,2021-03-22,6300,15,True,False
-389,2021-03-23,5608,53,True,True
-390,2021-03-24,7556,27,True,False
-391,2021-03-25,7688,26,True,False
-392,2021-03-26,7557,22,True,False
-393,2021-03-27,8782,29,True,False
-394,2021-03-28,7470,14,True,False
-395,2021-03-29,6781,13,True,False
-396,2021-03-30,5855,35,True,False
-397,2021-03-31,7629,31,True,False
-398,2021-04-01,7819,19,True,False
-399,2021-04-02,7214,16,True,False
-400,2021-04-03,7597,30,False,False
-401,2021-04-04,6862,15,False,False
-402,2021-04-05,5334,8,False,False
-403,2021-04-06,5559,23,False,False
-404,2021-04-07,6368,23,False,False
-405,2021-04-08,7761,21,False,False
-406,2021-04-09,7660,41,False,True
-407,2021-04-10,7659,21,False,False
-408,2021-04-11,8142,14,False,False
-409,2021-04-12,6658,19,True,True
-410,2021-04-13,6722,34,True,True
-411,2021-04-14,5440,26,True,True
-412,2021-04-15,8694,12,True,True
-413,2021-04-16,8890,18,True,False
-414,2021-04-17,8253,26,True,False
-415,2021-04-18,8522,13,True,False
-416,2021-04-19,7158,22,True,False
-417,2021-04-20,6821,26,True,False
-418,2021-04-21,8472,18,True,False
-419,2021-04-22,9579,19,True,False
-420,2021-04-23,9235,18,True,False
-421,2021-04-24,8062,17,True,False
-422,2021-04-25,8020,14,True,False
-423,2021-04-26,6226,14,True,False
-424,2021-04-27,5305,27,True,False
-425,2021-04-28,8651,16,False,False
-426,2021-04-29,7283,16,False,False
-427,2021-04-30,7764,26,False,False
-428,2021-05-01,5783,18,False,False
-429,2021-05-02,5461,3,False,False
-430,2021-05-03,9186,21,False,True
-431,2021-05-04,7758,29,False,True
-432,2021-05-05,7246,30,False,True
-433,2021-05-06,6753,18,False,True
-434,2021-05-07,7459,25,False,True
-435,2021-05-08,7424,27,True,True
-436,2021-05-09,6636,2,True,True
-437,2021-05-10,5861,19,False,True
-438,2021-05-11,5525,43,False,True
-439,2021-05-12,6341,18,False,True
-440,2021-05-13,6012,11,False,False
-441,2021-05-14,5543,11,False,False
-442,2021-05-15,4472,13,False,False
-443,2021-05-16,4424,15,False,False
-444,2021-05-17,2858,7,False,False
-445,2021-05-18,5325,13,False,False
-446,2021-05-19,4548,16,False,False
-447,2021-05-20,4616,19,False,False
-448,2021-05-21,4138,11,False,False
-449,2021-05-22,3173,20,False,False
-450,2021-05-23,3423,6,False,False
-451,2021-05-24,2728,13,False,False
-452,2021-05-25,2484,15,False,True
-453,2021-05-26,2738,6,False,True
-454,2021-05-27,3375,18,False,False
-455,2021-05-28,3838,15,False,False
-456,2021-05-29,3345,7,False,False
-457,2021-05-30,2622,7,False,False
-458,2021-05-31,2020,2,False,False
-459,2021-06-01,2480,8,False,False
-460,2021-06-02,2559,11,False,False
-461,2021-06-03,2761,13,False,False
-462,2021-06-04,2395,10,False,False
-463,2021-06-05,2118,6,False,False
-464,2021-06-06,1568,3,False,False
-465,2021-06-07,1468,4,False,False
-466,2021-06-08,1436,13,False,False
-467,2021-06-09,1751,6,False,False
-468,2021-06-10,1577,4,False,False
-469,2021-06-11,1387,3,False,False
-470,2021-06-12,1239,1,False,False
-471,2021-06-13,1041,3,False,False
-472,2021-06-14,879,3,False,False
-473,2021-06-15,1040,1,False,False
-474,2021-06-16,1024,4,False,False
-475,2021-06-17,1059,4,False,False
-476,2021-06-18,890,3,False,False
-477,2021-06-19,692,1,False,False
-478,2021-06-20,710,1,False,False
-479,2021-06-21,569,1,False,False
-480,2021-06-22,698,6,False,False
-481,2021-06-23,665,1,False,False
-482,2021-06-24,696,1,False,False
-483,2021-06-25,646,5,False,False
-484,2021-06-26,555,0,False,False
-485,2021-06-27,501,1,False,False
-486,2021-06-28,567,0,False,False
-487,2021-06-29,527,4,False,False
-488,2021-06-30,636,0,False,False
-489,2021-07-01,822,4,False,False
-490,2021-07-02,940,6,False,False
-491,2021-07-03,1120,1,True,True
-492,2021-07-04,1200,0,True,False
-493,2021-07-05,1512,1,True,True
-494,2021-07-06,2192,1,True,True
-495,2021-07-07,3601,2,True,True
-496,2021-07-08,5393,2,True,False
-497,2021-07-09,6882,2,True,False
-498,2021-07-10,10224,1,True,False
-499,2021-07-11,9303,1,True,False
-500,2021-07-12,8431,0,True,False
-501,2021-07-13,7801,3,True,False
-502,2021-07-14,10405,1,True,False
-503,2021-07-15,10978,3,True,False
-504,2021-07-16,11258,2,True,True
-505,2021-07-17,11050,0,True,True
-506,2021-07-18,10183,1,True,False
-507,2021-07-19,8874,2,True,True
-508,2021-07-20,6776,5,True,True
-509,2021-07-21,6856,3,True,True
-510,2021-07-22,6233,3,False,True
-511,2021-07-23,6370,3,False,True
-512,2021-07-24,5259,4,False,True
-513,2021-07-25,4607,4,False,True
-514,2021-07-26,3834,1,False,True
-515,2021-07-27,3979,3,False,True
-516,2021-07-28,3444,8,False,True
-517,2021-07-29,4452,3,False,True
-518,2021-07-30,3432,6,False,True
-519,2021-07-31,2942,6,False,True
-520,2021-08-01,2313,2,False,True
-521,2021-08-02,2099,0,False,True
-522,2021-08-03,2209,3,False,True
-523,2021-08-04,2792,7,False,True
-524,2021-08-05,3331,11,False,True
-525,2021-08-06,2901,8,False,True
-526,2021-08-07,2396,9,False,True
-527,2021-08-08,2307,2,False,True
-528,2021-08-09,2037,2,False,True
-529,2021-08-10,2162,7,False,True
-530,2021-08-11,2119,9,False,True
-531,2021-08-12,2566,7,False,True
-532,2021-08-13,2664,6,False,True
-533,2021-08-14,2304,6,False,False
-534,2021-08-15,2260,3,False,False
-535,2021-08-16,2236,6,False,True
-536,2021-08-17,2304,5,False,False
-537,2021-08-18,2785,7,False,False
-538,2021-08-19,2484,6,True,False
-539,2021-08-20,2208,6,True,False
-540,2021-08-21,2440,8,True,True
-541,2021-08-22,2461,6,True,True
-542,2021-08-23,2382,4,True,False
-543,2021-08-24,2459,11,True,True
-544,2021-08-25,2816,7,True,True
-545,2021-08-26,2613,7,True,True
-546,2021-08-27,2798,4,True,True
-547,2021-08-28,2450,9,True,True
-548,2021-08-29,2311,2,True,False
-549,2021-08-30,2171,2,True,False
-550,2021-08-31,2274,12,True,False
-551,2021-09-01,2788,2,True,False
-552,2021-09-02,2789,5,True,False
-553,2021-09-03,2530,9,False,False
-554,2021-09-04,2748,9,False,False
-555,2021-09-05,2358,2,False,False
-556,2021-09-06,2114,3,False,False
-557,2021-09-07,2472,8,True,False
-558,2021-09-08,2794,7,True,True
-559,2021-09-09,2357,3,False,True
-560,2021-09-10,2676,4,True,False
-561,2021-09-11,2208,6,False,False
-562,2021-09-12,2095,1,False,False
-563,2021-09-13,1751,4,False,False
-564,2021-09-14,2001,10,False,False
-565,2021-09-15,2375,7,False,False
-566,2021-09-16,2090,7,False,False
-567,2021-09-17,2126,10,False,True
-568,2021-09-18,2014,4,False,True
-569,2021-09-19,1664,3,False,True
-570,2021-09-20,1353,9,False,True
-571,2021-09-21,1663,5,False,True
-572,2021-09-22,1894,4,False,True
-573,2021-09-23,1810,12,False,True
-574,2021-09-24,1693,3,False,False
-575,2021-09-25,1600,2,False,False
-576,2021-09-26,1599,1,False,False
-577,2021-09-27,1386,4,False,False
-578,2021-09-28,1717,8,False,False
-579,2021-09-29,1751,6,False,False
-580,2021-09-30,1701,2,False,False
-581,2021-10-01,1717,6,False,False
-582,2021-10-02,1669,5,False,False
-583,2021-10-03,1602,1,False,False
-584,2021-10-04,1610,2,True,False
-585,2021-10-05,1899,7,True,False
-586,2021-10-06,1904,3,True,False
-587,2021-10-07,2733,6,True,True
-588,2021-10-08,2769,2,True,False
-589,2021-10-09,2483,2,True,False
-590,2021-10-10,2735,0,True,False
-591,2021-10-11,2249,5,True,False
-592,2021-10-12,2883,6,True,False
-593,2021-10-13,3718,12,True,True
-594,2021-10-14,3635,4,True,True
-595,2021-10-15,3695,6,True,True
-596,2021-10-16,3691,5,True,True
-597,2021-10-17,3659,6,True,True
-598,2021-10-18,3348,1,True,True
-599,2021-10-19,3914,13,True,True
-600,2021-10-20,4581,9,True,True
-601,2021-10-21,5177,7,True,True
-602,2021-10-22,5836,10,True,True
-603,2021-10-23,5671,25,True,True
-604,2021-10-24,6302,1,True,True
-605,2021-10-25,5298,6,True,True
-606,2021-10-26,5754,19,True,True
-607,2021-10-27,7262,17,True,True
-608,2021-10-28,7666,15,True,True
-609,2021-10-29,7387,13,True,True
-610,2021-10-30,7941,13,True,True
-611,2021-10-31,8151,14,True,True
-612,2021-11-01,7690,11,True,True
-613,2021-11-02,7692,18,True,True
-614,2021-11-03,9146,33,True,True
-615,2021-11-04,10204,24,True,True
-616,2021-11-05,10874,20,True,True
-617,2021-11-06,11970,36,True,True
-618,2021-11-07,11340,8,True,True
-619,2021-11-08,11757,22,True,True
-620,2021-11-09,11284,28,True,True
-621,2021-11-10,12645,25,True,True
-622,2021-11-11,16249,25,True,True
-623,2021-11-12,16053,31,True,True
-624,2021-11-13,13801,32,True,True
-625,2021-11-14,11975,7,True,True
-626,2021-11-15,19192,16,True,True
-627,2021-11-16,20143,35,True,False
-628,2021-11-17,20702,44,True,True
-629,2021-11-18,23562,34,True,True
-630,2021-11-19,20974,39,True,True
-631,2021-11-20,21757,55,True,True
-632,2021-11-21,20632,11,True,True
-633,2021-11-22,22985,29,True,True
-634,2021-11-23,22949,53,True,True
-635,2021-11-24,23699,50,True,True
-636,2021-11-25,22174,61,True,True
-637,2021-11-26,21264,59,True,True
-638,2021-11-27,21989,54,True,True
-639,2021-11-28,22067,43,True,True
-640,2021-11-29,21454,33,True,True
-641,2021-11-30,22057,65,True,True
-642,2021-12-01,18497,43,False,True
-643,2021-12-02,23030,65,False,True
-644,2021-12-03,21476,61,False,True
-645,2021-12-04,22600,56,False,True
-646,2021-12-05,23050,26,False,False
-647,2021-12-06,20977,34,False,False
-648,2021-12-07,17941,68,False,False
-649,2021-12-08,18053,71,False,True
-650,2021-12-09,19730,78,False,True
-651,2021-12-10,17444,84,False,True
-652,2021-12-11,17744,69,False,True
-653,2021-12-12,16603,39,False,True
-654,2021-12-13,13787,28,False,True
-655,2021-12-14,12796,74,False,True
-656,2021-12-15,13496,41,False,True
-657,2021-12-16,16346,54,False,False
-658,2021-12-17,15337,59,False,False
-659,2021-12-18,14660,50,False,False
-660,2021-12-19,13256,48,False,False
-661,2021-12-20,12140,34,False,False
-662,2021-12-21,9391,31,False,False
-663,2021-12-22,13392,48,False,False
-664,2021-12-23,13315,40,False,False
-665,2021-12-24,12466,40,False,False
-666,2021-12-25,12555,45,False,False
-667,2021-12-26,11892,11,False,False
-668,2021-12-27,11428,12,False,False
-669,2021-12-28,9134,75,False,False
-670,2021-12-29,15696,50,False,False
-671,2021-12-30,14759,40,False,False
-672,2021-12-31,16680,33,True,False
-673,2022-01-01,15582,27,True,False
-674,2022-01-02,17426,6,True,False
-675,2022-01-03,14493,14,True,True
-676,2022-01-04,18504,19,True,False
-677,2022-01-05,24437,38,True,False
-678,2022-01-06,24525,12,True,False
-679,2022-01-07,34726,24,True,False
-680,2022-01-08,27784,8,True,False
-681,2022-01-09,32335,7,True,False
-682,2022-01-10,27737,7,True,False
-683,2022-01-11,28856,18,True,False
-684,2022-01-12,31907,8,True,False
-685,2022-01-13,33144,13,True,False
-686,2022-01-14,35195,16,True,False
-687,2022-01-15,31624,6,True,False
-688,2022-01-16,35778,6,True,False
-689,2022-01-17,41768,3,True,False
-690,2022-01-18,31018,10,True,False
-691,2022-01-19,37982,10,True,False
-692,2022-01-20,39720,10,True,False
-693,2022-01-21,57192,11,True,False
-694,2022-01-22,46152,8,True,False
-695,2022-01-23,64596,1,True,False
-696,2022-01-24,64125,8,True,False
-697,2022-01-25,53482,7,True,False
-698,2022-01-26,57707,11,True,False
-699,2022-01-27,64225,14,True,False
-700,2022-01-28,72994,8,True,True
-701,2022-01-29,38902,8,True,False
-702,2022-01-30,74669,3,True,True
-703,2022-01-31,110491,4,True,False
-704,2022-02-01,104597,14,True,True
-705,2022-02-02,66143,10,True,True
-706,2022-02-03,81662,10,True,False
-707,2022-02-04,71152,5,True,False
-708,2022-02-05,53062,10,True,False
-709,2022-02-06,79982,7,True,True
-710,2022-02-07,81530,5,True,True
-711,2022-02-08,390971,8,True,False
-712,2022-02-09,86497,7,True,False
-713,2022-02-10,86720,15,True,False
-714,2022-02-11,80597,20,True,True
-715,2022-02-12,70298,11,True,True
-716,2022-02-13,60066,7,True,True
-717,2022-02-14,55025,6,True,True
-718,2022-02-15,53465,12,False,True
-719,2022-02-16,63697,18,False,True
-720,2022-02-17,56316,18,False,True
-721,2022-02-18,49242,15,False,True
-722,2022-02-19,33523,10,False,True
-723,2022-02-20,36285,8,False,True
-724,2022-02-21,35915,8,False,True
-725,2022-02-22,34536,17,False,True
-726,2022-02-23,41439,11,False,False
-727,2022-02-24,41150,13,False,False
-728,2022-02-25,37552,8,False,False
-729,2022-02-26,32898,6,False,False
-730,2022-02-27,27408,3,False,False
-731,2022-02-28,28867,6,False,False
-732,2022-03-01,36528,16,False,False
-733,2022-03-02,48477,10,False,False
-734,2022-03-03,58312,6,False,False
-735,2022-03-04,68396,8,True,False
-736,2022-03-05,67297,9,True,False
-737,2022-03-06,66945,3,True,False
-738,2022-03-07,64295,5,True,False
-739,2022-03-08,66650,12,True,False
-740,2022-03-09,74680,11,True,False
-741,2022-03-10,75146,39,True,True
-742,2022-03-11,69341,17,True,True
-743,2022-03-12,60259,11,True,True
-744,2022-03-13,52799,8,True,True
-745,2022-03-14,46497,6,True,True
-746,2022-03-15,53399,12,False,True
-747,2022-03-16,60734,13,False,True
-748,2022-03-17,54393,17,False,False
-749,2022-03-18,49286,19,False,False
-750,2022-03-19,41589,11,False,False
-751,2022-03-20,34779,8,False,False
-752,2022-03-21,31871,4,False,False
-753,2022-03-22,40525,23,False,False
-754,2022-03-23,42779,15,False,False
-755,2022-03-24,39170,16,False,True
-756,2022-03-25,34948,19,False,True
-757,2022-03-26,28113,21,False,True
-758,2022-03-27,24977,6,False,True
-759,2022-03-28,21508,10,False,True
-760,2022-03-29,30713,17,False,True
-761,2022-03-30,27749,32,False,True
-762,2022-03-31,25493,25,False,True
-763,2022-04-01,21781,9,False,True
-764,2022-04-02,16889,14,False,True
-765,2022-04-03,12360,7,False,True
-766,2022-04-04,10794,9,False,True
-767,2022-04-05,14064,15,False,True
-768,2022-04-06,13047,23,False,False
-769,2022-04-07,12828,9,False,False
-770,2022-04-08,10901,15,False,False
-771,2022-04-09,9907,15,False,False
-772,2022-04-10,7165,2,False,False
-773,2022-04-11,6611,3,False,False
-774,2022-04-12,6285,14,False,False
-775,2022-04-13,4941,21,False,False
-776,2022-04-14,4686,11,False,False
-777,2022-04-15,4132,8,False,False
-778,2022-04-16,3517,5,False,False
-779,2022-04-17,2828,1,False,False
-780,2022-04-18,2069,2,False,False
-781,2022-04-19,2493,5,False,False
-782,2022-04-20,3497,11,False,False
-783,2022-04-21,2987,18,False,False
-784,2022-04-22,2589,9,False,False
-785,2022-04-23,2111,9,False,False
-786,2022-04-24,1575,5,False,False
-787,2022-04-25,1380,7,False,True
-788,2022-04-26,1904,6,False,True
-789,2022-04-27,1746,2,False,True
-790,2022-04-28,1243,3,False,False
-791,2022-04-29,1668,4,False,False
-792,2022-04-30,1601,6,False,False
-793,2022-05-01,1293,4,False,False
-794,2022-05-02,1286,3,False,False
-795,2022-05-03,1750,6,False,False
-796,2022-05-04,1673,3,False,False
-797,2022-05-05,1684,4,False,False
-798,2022-05-06,1301,2,False,False
-799,2022-05-07,1493,3,False,False
-800,2022-05-08,1232,2,False,False
-801,2022-05-09,1032,2,False,False
-802,2022-05-10,1580,3,False,False
-803,2022-05-11,1400,7,False,False
-804,2022-05-12,1431,4,False,False
-805,2022-05-13,1273,0,False,False
+,Date_of_publication,Total_reported,Cases_level,Deceased,Deaths_level,Cases_Increase,Deaths_Increase
+0,2020-02-28,1,Very Low,0,Very Low,,
+1,2020-02-29,1,Very Low,0,Very Low,,
+2,2020-03-01,3,Very Low,0,Very Low,,
+3,2020-03-02,5,Very Low,0,Very Low,,
+4,2020-03-03,4,Very Low,0,Very Low,,
+5,2020-03-04,10,Very Low,0,Very Low,,
+6,2020-03-05,17,Very Low,0,Very Low,,
+7,2020-03-06,40,Very Low,0,Very Low,,
+8,2020-03-07,50,Very Low,1,Very Low,,
+9,2020-03-08,32,Very Low,1,Very Low,,
+10,2020-03-09,61,Very Low,1,Very Low,,
+11,2020-03-10,130,Very Low,0,Very Low,,
+12,2020-03-11,123,Very Low,1,Very Low,,
+13,2020-03-12,127,Very Low,0,Very Low,True,True
+14,2020-03-13,113,Very Low,3,Very Low,True,True
+15,2020-03-14,219,Very Low,3,Very Low,True,True
+16,2020-03-15,173,Very Low,7,Very Low,True,True
+17,2020-03-16,270,Low,4,Very Low,True,True
+18,2020-03-17,288,Low,18,Low,True,True
+19,2020-03-18,347,Low,16,Low,True,True
+20,2020-03-19,396,Low,21,Low,True,True
+21,2020-03-20,533,Low,29,Intermediate,True,True
+22,2020-03-21,637,Low,31,Intermediate,True,True
+23,2020-03-22,605,Low,43,Intermediate,True,True
+24,2020-03-23,553,Low,32,Intermediate,True,True
+25,2020-03-24,749,Low,62,High,True,True
+26,2020-03-25,843,Low,80,High,True,True
+27,2020-03-26,1007,Low,75,High,True,True
+28,2020-03-27,1167,Low,114,High,True,True
+29,2020-03-28,1146,Low,89,High,True,True
+30,2020-03-29,1092,Low,125,High,True,True
+31,2020-03-30,873,Low,90,High,True,True
+32,2020-03-31,834,Low,172,Very High,True,True
+33,2020-04-01,1008,Low,134,Very High,True,True
+34,2020-04-02,1083,Low,164,Very High,True,True
+35,2020-04-03,1020,Low,142,Very High,True,True
+36,2020-04-04,1002,Low,177,Very High,True,True
+37,2020-04-05,1099,Low,105,High,True,True
+38,2020-04-06,945,Low,101,High,True,True
+39,2020-04-07,782,Low,232,Very High,False,True
+40,2020-04-08,959,Low,148,Very High,False,True
+41,2020-04-09,1208,Low,145,Very High,False,True
+42,2020-04-10,1327,Low,114,High,True,True
+43,2020-04-11,1301,Low,134,Very High,True,False
+44,2020-04-12,1171,Low,94,High,True,False
+45,2020-04-13,959,Low,85,High,True,False
+46,2020-04-14,862,Low,122,High,True,False
+47,2020-04-15,730,Low,185,Very High,True,False
+48,2020-04-16,1069,Low,185,Very High,True,False
+49,2020-04-17,1234,Low,144,Very High,True,False
+50,2020-04-18,1186,Low,144,Very High,False,False
+51,2020-04-19,1023,Low,80,High,False,False
+52,2020-04-20,748,Low,65,High,False,False
+53,2020-04-21,716,Low,162,Very High,False,True
+54,2020-04-22,708,Low,141,Very High,False,True
+55,2020-04-23,874,Low,129,Very High,False,False
+56,2020-04-24,805,Low,111,High,False,False
+57,2020-04-25,647,Low,120,High,False,False
+58,2020-04-26,651,Low,65,High,False,False
+59,2020-04-27,405,Low,43,Intermediate,False,False
+60,2020-04-28,193,Very Low,58,High,False,False
+61,2020-04-29,388,Low,136,Very High,False,False
+62,2020-04-30,507,Low,82,High,False,False
+63,2020-05-01,478,Low,100,High,False,False
+64,2020-05-02,437,Low,93,High,False,False
+65,2020-05-03,338,Low,69,High,False,False
+66,2020-05-04,201,Very Low,27,Intermediate,False,False
+67,2020-05-05,319,Low,82,High,False,False
+68,2020-05-06,319,Low,40,Intermediate,False,False
+69,2020-05-07,361,Low,84,High,False,False
+70,2020-05-08,319,Low,72,High,False,False
+71,2020-05-09,288,Low,64,High,False,False
+72,2020-05-10,242,Very Low,18,Low,False,False
+73,2020-05-11,179,Very Low,16,Low,False,False
+74,2020-05-12,195,Very Low,56,High,False,False
+75,2020-05-13,223,Very Low,49,Intermediate,False,False
+76,2020-05-14,274,Low,29,Intermediate,False,False
+77,2020-05-15,202,Very Low,54,High,False,False
+78,2020-05-16,194,Very Low,25,Low,False,False
+79,2020-05-17,125,Very Low,11,Low,False,False
+80,2020-05-18,148,Very Low,16,Low,False,False
+81,2020-05-19,111,Very Low,21,Low,False,False
+82,2020-05-20,187,Very Low,32,Intermediate,False,False
+83,2020-05-21,254,Low,28,Intermediate,False,False
+84,2020-05-22,184,Very Low,13,Low,False,False
+85,2020-05-23,177,Very Low,22,Low,False,False
+86,2020-05-24,173,Very Low,11,Low,False,False
+87,2020-05-25,213,Very Low,8,Very Low,False,False
+88,2020-05-26,129,Very Low,23,Low,True,False
+89,2020-05-27,194,Very Low,15,Low,True,False
+90,2020-05-28,178,Very Low,31,Intermediate,True,False
+91,2020-05-29,178,Very Low,25,Low,True,False
+92,2020-05-30,141,Very Low,21,Low,True,False
+93,2020-05-31,176,Very Low,3,Very Low,False,False
+94,2020-06-01,104,Very Low,6,Very Low,False,False
+95,2020-06-02,95,Very Low,4,Very Low,False,False
+96,2020-06-03,93,Very Low,12,Low,False,False
+97,2020-06-04,188,Very Low,15,Low,False,False
+98,2020-06-05,217,Very Low,13,Low,False,False
+99,2020-06-06,190,Very Low,7,Very Low,False,False
+100,2020-06-07,239,Very Low,3,Very Low,False,False
+101,2020-06-08,166,Very Low,3,Very Low,True,False
+102,2020-06-09,164,Very Low,16,Low,True,False
+103,2020-06-10,181,Very Low,12,Low,True,False
+104,2020-06-11,162,Very Low,3,Very Low,True,False
+105,2020-06-12,207,Very Low,9,Very Low,True,False
+106,2020-06-13,181,Very Low,4,Very Low,True,False
+107,2020-06-14,144,Very Low,2,Very Low,True,False
+108,2020-06-15,159,Very Low,6,Very Low,True,False
+109,2020-06-16,134,Very Low,5,Very Low,False,False
+110,2020-06-17,113,Very Low,4,Very Low,False,False
+111,2020-06-18,124,Very Low,4,Very Low,False,False
+112,2020-06-19,108,Very Low,3,Very Low,False,False
+113,2020-06-20,90,Very Low,8,Very Low,False,False
+114,2020-06-21,95,Very Low,1,Very Low,False,False
+115,2020-06-22,68,Very Low,0,Very Low,False,False
+116,2020-06-23,70,Very Low,6,Very Low,False,False
+117,2020-06-24,80,Very Low,2,Very Low,False,False
+118,2020-06-25,110,Very Low,3,Very Low,False,False
+119,2020-06-26,93,Very Low,3,Very Low,False,False
+120,2020-06-27,77,Very Low,2,Very Low,False,False
+121,2020-06-28,66,Very Low,0,Very Low,False,False
+122,2020-06-29,76,Very Low,2,Very Low,False,False
+123,2020-06-30,57,Very Low,5,Very Low,False,False
+124,2020-07-01,62,Very Low,3,Very Low,False,False
+125,2020-07-02,75,Very Low,3,Very Low,False,False
+126,2020-07-03,76,Very Low,2,Very Low,False,False
+127,2020-07-04,65,Very Low,6,Very Low,False,True
+128,2020-07-05,72,Very Low,1,Very Low,False,True
+129,2020-07-06,41,Very Low,1,Very Low,False,True
+130,2020-07-07,34,Very Low,4,Very Low,False,True
+131,2020-07-08,57,Very Low,3,Very Low,False,True
+132,2020-07-09,60,Very Low,2,Very Low,False,True
+133,2020-07-10,65,Very Low,1,Very Low,False,True
+134,2020-07-11,84,Very Low,4,Very Low,False,False
+135,2020-07-12,95,Very Low,0,Very Low,False,False
+136,2020-07-13,72,Very Low,0,Very Low,True,False
+137,2020-07-14,98,Very Low,11,Low,True,True
+138,2020-07-15,109,Very Low,1,Very Low,True,False
+139,2020-07-16,119,Very Low,2,Very Low,True,False
+140,2020-07-17,109,Very Low,2,Very Low,True,True
+141,2020-07-18,145,Very Low,1,Very Low,True,True
+142,2020-07-19,145,Very Low,0,Very Low,True,True
+143,2020-07-20,183,Very Low,0,Very Low,True,True
+144,2020-07-21,169,Very Low,1,Very Low,True,False
+145,2020-07-22,170,Very Low,3,Very Low,True,False
+146,2020-07-23,164,Very Low,0,Very Low,True,False
+147,2020-07-24,155,Very Low,0,Very Low,True,False
+148,2020-07-25,184,Very Low,1,Very Low,True,False
+149,2020-07-26,213,Very Low,0,Very Low,True,False
+150,2020-07-27,209,Very Low,1,Very Low,True,False
+151,2020-07-28,224,Very Low,4,Very Low,True,True
+152,2020-07-29,248,Very Low,2,Very Low,True,False
+153,2020-07-30,341,Low,0,Very Low,True,True
+154,2020-07-31,341,Low,0,Very Low,True,True
+155,2020-08-01,431,Low,1,Very Low,True,True
+156,2020-08-02,359,Low,1,Very Low,True,True
+157,2020-08-03,372,Low,0,Very Low,True,True
+158,2020-08-04,487,Low,2,Very Low,True,False
+159,2020-08-05,428,Low,3,Very Low,True,False
+160,2020-08-06,605,Low,0,Very Low,True,False
+161,2020-08-07,517,Low,1,Very Low,True,False
+162,2020-08-08,484,Low,3,Very Low,True,True
+163,2020-08-09,577,Low,0,Very Low,True,False
+164,2020-08-10,787,Low,0,Very Low,True,True
+165,2020-08-11,620,Low,2,Very Low,True,True
+166,2020-08-12,651,Low,2,Very Low,True,True
+167,2020-08-13,576,Low,4,Very Low,True,True
+168,2020-08-14,627,Low,2,Very Low,True,True
+169,2020-08-15,656,Low,2,Very Low,True,True
+170,2020-08-16,499,Low,3,Very Low,True,True
+171,2020-08-17,486,Low,1,Very Low,True,True
+172,2020-08-18,493,Low,3,Very Low,False,True
+173,2020-08-19,553,Low,9,Very Low,False,True
+174,2020-08-20,531,Low,5,Very Low,False,True
+175,2020-08-21,533,Low,1,Very Low,False,True
+176,2020-08-22,507,Low,5,Very Low,False,True
+177,2020-08-23,455,Low,1,Very Low,False,True
+178,2020-08-24,573,Low,3,Very Low,False,True
+179,2020-08-25,416,Low,3,Very Low,False,True
+180,2020-08-26,572,Low,8,Very Low,False,True
+181,2020-08-27,508,Low,3,Very Low,False,False
+182,2020-08-28,501,Low,3,Very Low,False,True
+183,2020-08-29,503,Low,4,Very Low,False,False
+184,2020-08-30,506,Low,0,Very Low,True,False
+185,2020-08-31,526,Low,0,Very Low,False,False
+186,2020-09-01,467,Low,6,Very Low,True,False
+187,2020-09-02,720,Low,5,Very Low,True,False
+188,2020-09-03,599,Low,3,Very Low,True,False
+189,2020-09-04,743,Low,1,Very Low,True,False
+190,2020-09-05,649,Low,5,Very Low,True,False
+191,2020-09-06,920,Low,2,Very Low,True,False
+192,2020-09-07,795,Low,0,Very Low,True,True
+193,2020-09-08,968,Low,1,Very Low,True,False
+194,2020-09-09,1140,Low,3,Very Low,True,False
+195,2020-09-10,837,Low,2,Very Low,True,False
+196,2020-09-11,1271,Low,3,Very Low,True,False
+197,2020-09-12,1222,Low,1,Very Low,True,False
+198,2020-09-13,1087,Low,1,Very Low,True,False
+199,2020-09-14,1297,Low,2,Very Low,True,False
+200,2020-09-15,1376,Low,2,Very Low,True,False
+201,2020-09-16,1537,Low,3,Very Low,True,False
+202,2020-09-17,1739,Low,5,Very Low,True,True
+203,2020-09-18,1955,Low,6,Very Low,True,True
+204,2020-09-19,1892,Low,4,Very Low,True,True
+205,2020-09-20,1844,Low,3,Very Low,True,True
+206,2020-09-21,2211,Low,2,Very Low,True,True
+207,2020-09-22,2237,Low,10,Very Low,True,True
+208,2020-09-23,2334,Low,8,Very Low,True,True
+209,2020-09-24,2536,Intermediate,14,Low,True,True
+210,2020-09-25,2764,Intermediate,17,Low,True,True
+211,2020-09-26,2700,Intermediate,36,Intermediate,True,True
+212,2020-09-27,2976,Intermediate,9,Very Low,True,True
+213,2020-09-28,2901,Intermediate,9,Very Low,True,True
+214,2020-09-29,3004,Intermediate,10,Very Low,True,True
+215,2020-09-30,3286,Intermediate,14,Low,True,True
+216,2020-10-01,3253,Intermediate,13,Low,True,True
+217,2020-10-02,3804,Intermediate,10,Very Low,True,True
+218,2020-10-03,3935,Intermediate,17,Low,True,False
+219,2020-10-04,3983,Intermediate,5,Very Low,True,False
+220,2020-10-05,4555,Intermediate,9,Very Low,True,False
+221,2020-10-06,4519,Intermediate,29,Intermediate,True,False
+222,2020-10-07,4972,Intermediate,26,Intermediate,True,False
+223,2020-10-08,5783,Intermediate,12,Low,True,False
+224,2020-10-09,5960,Intermediate,16,Low,True,True
+225,2020-10-10,6478,Intermediate,20,Low,True,True
+226,2020-10-11,6342,Intermediate,18,Low,True,True
+227,2020-10-12,6803,Intermediate,13,Low,True,True
+228,2020-10-13,7332,Intermediate,38,Intermediate,True,True
+229,2020-10-14,7251,Intermediate,28,Intermediate,True,True
+230,2020-10-15,7777,Intermediate,27,Intermediate,True,True
+231,2020-10-16,7950,Intermediate,20,Low,True,True
+232,2020-10-17,8105,Intermediate,26,Intermediate,True,True
+233,2020-10-18,8148,Intermediate,13,Low,True,True
+234,2020-10-19,7986,Intermediate,28,Intermediate,True,True
+235,2020-10-20,8144,Intermediate,42,Intermediate,True,True
+236,2020-10-21,8715,Intermediate,59,High,True,True
+237,2020-10-22,9251,Intermediate,42,Intermediate,True,True
+238,2020-10-23,9972,Intermediate,51,High,True,True
+239,2020-10-24,8642,Intermediate,48,Intermediate,True,True
+240,2020-10-25,10168,High,26,Intermediate,True,True
+241,2020-10-26,10303,High,29,Intermediate,True,True
+242,2020-10-27,10266,High,71,High,True,True
+243,2020-10-28,8077,Intermediate,50,Intermediate,True,True
+244,2020-10-29,10245,High,66,High,True,True
+245,2020-10-30,11066,High,86,High,True,True
+246,2020-10-31,9771,Intermediate,53,High,True,True
+247,2020-11-01,8679,Intermediate,29,Intermediate,True,True
+248,2020-11-02,8264,Intermediate,36,Intermediate,True,True
+249,2020-11-03,7738,Intermediate,111,High,False,True
+250,2020-11-04,7600,Intermediate,109,High,False,True
+251,2020-11-05,6946,Intermediate,88,High,False,True
+252,2020-11-06,7226,Intermediate,114,High,False,True
+253,2020-11-07,6616,Intermediate,62,High,False,True
+254,2020-11-08,5656,Intermediate,44,Intermediate,False,True
+255,2020-11-09,4669,Intermediate,46,Intermediate,False,True
+256,2020-11-10,4644,Intermediate,95,High,False,True
+257,2020-11-11,5383,Intermediate,82,High,False,True
+258,2020-11-12,5618,Intermediate,74,High,False,True
+259,2020-11-13,6067,Intermediate,60,High,False,False
+260,2020-11-14,5897,Intermediate,73,High,False,False
+261,2020-11-15,5418,Intermediate,50,Intermediate,False,False
+262,2020-11-16,4842,Intermediate,48,Intermediate,False,False
+263,2020-11-17,4280,Intermediate,84,High,False,False
+264,2020-11-18,4583,Intermediate,86,High,False,False
+265,2020-11-19,5686,Intermediate,67,High,False,False
+266,2020-11-20,5931,Intermediate,47,Intermediate,False,False
+267,2020-11-21,6004,Intermediate,47,Intermediate,False,False
+268,2020-11-22,5358,Intermediate,20,Low,False,False
+269,2020-11-23,5181,Intermediate,64,High,False,False
+270,2020-11-24,3947,Intermediate,89,High,False,False
+271,2020-11-25,4910,Intermediate,72,High,True,False
+272,2020-11-26,4468,Intermediate,75,High,False,False
+273,2020-11-27,5751,Intermediate,81,High,False,False
+274,2020-11-28,4465,Intermediate,54,High,False,True
+275,2020-11-29,5565,Intermediate,25,Low,False,True
+276,2020-11-30,4572,Intermediate,32,Intermediate,False,True
+277,2020-12-01,4038,Intermediate,55,High,False,False
+278,2020-12-02,4908,Intermediate,66,High,False,False
+279,2020-12-03,5594,Intermediate,60,High,False,False
+280,2020-12-04,5891,Intermediate,57,High,False,False
+281,2020-12-05,6529,Intermediate,35,Intermediate,True,False
+282,2020-12-06,6761,Intermediate,24,Low,True,False
+283,2020-12-07,7094,Intermediate,24,Low,True,False
+284,2020-12-08,6119,Intermediate,66,High,True,False
+285,2020-12-09,6544,Intermediate,72,High,True,False
+286,2020-12-10,8709,Intermediate,59,High,True,False
+287,2020-12-11,8837,Intermediate,61,High,True,False
+288,2020-12-12,9122,Intermediate,51,High,True,True
+289,2020-12-13,9877,Intermediate,29,Intermediate,True,True
+290,2020-12-14,8461,Intermediate,37,Intermediate,True,True
+291,2020-12-15,6630,Intermediate,90,High,True,True
+292,2020-12-16,11166,High,76,High,True,True
+293,2020-12-17,12778,High,71,High,True,True
+294,2020-12-18,11956,High,82,High,True,True
+295,2020-12-19,12224,High,58,High,True,True
+296,2020-12-20,12997,High,29,Intermediate,True,True
+297,2020-12-21,11156,High,41,Intermediate,True,True
+298,2020-12-22,9822,Intermediate,109,High,True,True
+299,2020-12-23,10390,High,96,High,True,True
+300,2020-12-24,11494,High,92,High,True,True
+301,2020-12-25,11495,High,91,High,True,True
+302,2020-12-26,9815,Intermediate,48,Intermediate,True,True
+303,2020-12-27,9005,Intermediate,32,Intermediate,False,True
+304,2020-12-28,7398,Intermediate,41,Intermediate,False,True
+305,2020-12-29,7518,Intermediate,171,Very High,False,True
+306,2020-12-30,9449,Intermediate,113,High,False,True
+307,2020-12-31,9664,Intermediate,107,High,False,True
+308,2021-01-01,8169,Intermediate,92,High,False,True
+309,2021-01-02,8589,Intermediate,40,Intermediate,False,True
+310,2021-01-03,7396,Intermediate,52,High,False,True
+311,2021-01-04,6632,Intermediate,72,High,False,True
+312,2021-01-05,6369,Intermediate,187,Very High,False,True
+313,2021-01-06,7089,Intermediate,128,Very High,False,True
+314,2021-01-07,9677,Intermediate,84,High,False,True
+315,2021-01-08,8112,Intermediate,92,High,False,True
+316,2021-01-09,7330,Intermediate,134,Very High,False,True
+317,2021-01-10,6602,Intermediate,53,High,False,True
+318,2021-01-11,5448,Intermediate,60,High,False,True
+319,2021-01-12,4942,Intermediate,143,Very High,False,True
+320,2021-01-13,6091,Intermediate,117,High,False,True
+321,2021-01-14,6499,Intermediate,85,High,False,True
+322,2021-01-15,6025,Intermediate,95,High,False,True
+323,2021-01-16,5295,Intermediate,100,High,False,False
+324,2021-01-17,5582,Intermediate,37,Intermediate,False,False
+325,2021-01-18,4784,Intermediate,57,High,False,False
+326,2021-01-19,4294,Intermediate,110,High,False,False
+327,2021-01-20,5569,Intermediate,86,High,False,False
+328,2021-01-21,5805,Intermediate,95,High,False,False
+329,2021-01-22,5744,Intermediate,82,High,False,False
+330,2021-01-23,5446,Intermediate,83,High,False,False
+331,2021-01-24,4881,Intermediate,35,Intermediate,False,False
+332,2021-01-25,4089,Intermediate,45,Intermediate,False,False
+333,2021-01-26,3959,Intermediate,80,High,False,False
+334,2021-01-27,4725,Intermediate,72,High,False,False
+335,2021-01-28,4691,Intermediate,76,High,False,False
+336,2021-01-29,4397,Intermediate,66,High,False,False
+337,2021-01-30,4172,Intermediate,79,High,False,False
+338,2021-01-31,3677,Intermediate,39,Intermediate,False,False
+339,2021-02-01,3238,Intermediate,38,Intermediate,False,False
+340,2021-02-02,3548,Intermediate,77,High,False,False
+341,2021-02-03,4018,Intermediate,60,High,False,False
+342,2021-02-04,4199,Intermediate,65,High,False,False
+343,2021-02-05,4317,Intermediate,62,High,False,False
+344,2021-02-06,4088,Intermediate,60,High,False,False
+345,2021-02-07,3918,Intermediate,45,Intermediate,False,False
+346,2021-02-08,2257,Low,30,Intermediate,False,False
+347,2021-02-09,1759,Low,87,High,False,False
+348,2021-02-10,3173,Intermediate,82,High,False,False
+349,2021-02-11,4427,Intermediate,65,High,False,True
+350,2021-02-12,4327,Intermediate,80,High,False,True
+351,2021-02-13,4172,Intermediate,48,Intermediate,False,True
+352,2021-02-14,3425,Intermediate,28,Intermediate,False,True
+353,2021-02-15,2842,Intermediate,23,Low,False,True
+354,2021-02-16,2690,Intermediate,93,High,True,True
+355,2021-02-17,3368,Intermediate,94,High,True,False
+356,2021-02-18,4558,Intermediate,67,High,True,True
+357,2021-02-19,4676,Intermediate,46,Intermediate,True,False
+358,2021-02-20,4539,Intermediate,62,High,True,False
+359,2021-02-21,4669,Intermediate,20,Low,True,False
+360,2021-02-22,4179,Intermediate,33,Intermediate,True,True
+361,2021-02-23,3809,Intermediate,93,High,True,False
+362,2021-02-24,4368,Intermediate,63,High,True,False
+363,2021-02-25,4985,Intermediate,29,Intermediate,True,False
+364,2021-02-26,5089,Intermediate,71,High,True,False
+365,2021-02-27,4922,Intermediate,37,Intermediate,True,False
+366,2021-02-28,4634,Intermediate,17,Low,True,False
+367,2021-03-01,3749,Intermediate,21,Low,True,False
+368,2021-03-02,3965,Intermediate,66,High,True,False
+369,2021-03-03,5022,Intermediate,49,Intermediate,True,False
+370,2021-03-04,4092,Intermediate,31,Intermediate,True,False
+371,2021-03-05,4662,Intermediate,31,Intermediate,False,False
+372,2021-03-06,5312,Intermediate,41,Intermediate,False,False
+373,2021-03-07,4508,Intermediate,29,Intermediate,False,False
+374,2021-03-08,3884,Intermediate,36,Intermediate,False,False
+375,2021-03-09,4286,Intermediate,53,High,True,False
+376,2021-03-10,5258,Intermediate,26,Intermediate,False,False
+377,2021-03-11,5297,Intermediate,48,Intermediate,True,False
+378,2021-03-12,5975,Intermediate,30,Intermediate,True,True
+379,2021-03-13,6375,Intermediate,19,Low,True,False
+380,2021-03-14,5953,Intermediate,24,Low,True,False
+381,2021-03-15,5502,Intermediate,22,Low,True,False
+382,2021-03-16,4942,Intermediate,30,Intermediate,True,False
+383,2021-03-17,5908,Intermediate,47,Intermediate,True,False
+384,2021-03-18,6131,Intermediate,34,Intermediate,True,False
+385,2021-03-19,7348,Intermediate,41,Intermediate,True,False
+386,2021-03-20,7602,Intermediate,18,Low,True,False
+387,2021-03-21,6970,Intermediate,16,Low,True,False
+388,2021-03-22,6300,Intermediate,15,Low,True,False
+389,2021-03-23,5608,Intermediate,53,High,True,True
+390,2021-03-24,7556,Intermediate,27,Intermediate,True,False
+391,2021-03-25,7688,Intermediate,26,Intermediate,True,False
+392,2021-03-26,7557,Intermediate,22,Low,True,False
+393,2021-03-27,8782,Intermediate,29,Intermediate,True,False
+394,2021-03-28,7470,Intermediate,14,Low,True,False
+395,2021-03-29,6781,Intermediate,13,Low,True,False
+396,2021-03-30,5855,Intermediate,35,Intermediate,True,False
+397,2021-03-31,7629,Intermediate,31,Intermediate,True,False
+398,2021-04-01,7819,Intermediate,19,Low,True,False
+399,2021-04-02,7214,Intermediate,16,Low,True,False
+400,2021-04-03,7597,Intermediate,30,Intermediate,False,False
+401,2021-04-04,6862,Intermediate,15,Low,False,False
+402,2021-04-05,5334,Intermediate,8,Very Low,False,False
+403,2021-04-06,5559,Intermediate,23,Low,False,False
+404,2021-04-07,6368,Intermediate,23,Low,False,False
+405,2021-04-08,7761,Intermediate,21,Low,False,False
+406,2021-04-09,7660,Intermediate,41,Intermediate,False,True
+407,2021-04-10,7659,Intermediate,21,Low,False,False
+408,2021-04-11,8142,Intermediate,14,Low,False,False
+409,2021-04-12,6658,Intermediate,19,Low,True,True
+410,2021-04-13,6722,Intermediate,34,Intermediate,True,True
+411,2021-04-14,5440,Intermediate,26,Intermediate,True,True
+412,2021-04-15,8694,Intermediate,12,Low,True,True
+413,2021-04-16,8890,Intermediate,18,Low,True,False
+414,2021-04-17,8253,Intermediate,26,Intermediate,True,False
+415,2021-04-18,8522,Intermediate,13,Low,True,False
+416,2021-04-19,7158,Intermediate,22,Low,True,False
+417,2021-04-20,6821,Intermediate,26,Intermediate,True,False
+418,2021-04-21,8472,Intermediate,18,Low,True,False
+419,2021-04-22,9579,Intermediate,19,Low,True,False
+420,2021-04-23,9235,Intermediate,18,Low,True,False
+421,2021-04-24,8062,Intermediate,17,Low,True,False
+422,2021-04-25,8020,Intermediate,14,Low,True,False
+423,2021-04-26,6226,Intermediate,14,Low,True,False
+424,2021-04-27,5305,Intermediate,27,Intermediate,True,False
+425,2021-04-28,8651,Intermediate,16,Low,False,False
+426,2021-04-29,7283,Intermediate,16,Low,False,False
+427,2021-04-30,7764,Intermediate,26,Intermediate,False,False
+428,2021-05-01,5783,Intermediate,18,Low,False,False
+429,2021-05-02,5461,Intermediate,3,Very Low,False,False
+430,2021-05-03,9186,Intermediate,21,Low,False,True
+431,2021-05-04,7758,Intermediate,29,Intermediate,False,True
+432,2021-05-05,7246,Intermediate,30,Intermediate,False,True
+433,2021-05-06,6753,Intermediate,18,Low,False,True
+434,2021-05-07,7459,Intermediate,25,Low,False,True
+435,2021-05-08,7424,Intermediate,27,Intermediate,True,True
+436,2021-05-09,6636,Intermediate,2,Very Low,True,True
+437,2021-05-10,5861,Intermediate,19,Low,False,True
+438,2021-05-11,5525,Intermediate,43,Intermediate,False,True
+439,2021-05-12,6341,Intermediate,18,Low,False,True
+440,2021-05-13,6012,Intermediate,11,Low,False,False
+441,2021-05-14,5543,Intermediate,11,Low,False,False
+442,2021-05-15,4472,Intermediate,13,Low,False,False
+443,2021-05-16,4424,Intermediate,15,Low,False,False
+444,2021-05-17,2858,Intermediate,7,Very Low,False,False
+445,2021-05-18,5325,Intermediate,13,Low,False,False
+446,2021-05-19,4548,Intermediate,16,Low,False,False
+447,2021-05-20,4616,Intermediate,19,Low,False,False
+448,2021-05-21,4138,Intermediate,11,Low,False,False
+449,2021-05-22,3173,Intermediate,20,Low,False,False
+450,2021-05-23,3423,Intermediate,6,Very Low,False,False
+451,2021-05-24,2728,Intermediate,13,Low,False,False
+452,2021-05-25,2484,Low,15,Low,False,True
+453,2021-05-26,2738,Intermediate,6,Very Low,False,True
+454,2021-05-27,3375,Intermediate,18,Low,False,False
+455,2021-05-28,3838,Intermediate,15,Low,False,False
+456,2021-05-29,3345,Intermediate,7,Very Low,False,False
+457,2021-05-30,2622,Intermediate,7,Very Low,False,False
+458,2021-05-31,2020,Low,2,Very Low,False,False
+459,2021-06-01,2480,Low,8,Very Low,False,False
+460,2021-06-02,2559,Intermediate,11,Low,False,False
+461,2021-06-03,2761,Intermediate,13,Low,False,False
+462,2021-06-04,2395,Low,10,Very Low,False,False
+463,2021-06-05,2118,Low,6,Very Low,False,False
+464,2021-06-06,1568,Low,3,Very Low,False,False
+465,2021-06-07,1468,Low,4,Very Low,False,False
+466,2021-06-08,1436,Low,13,Low,False,False
+467,2021-06-09,1751,Low,6,Very Low,False,False
+468,2021-06-10,1577,Low,4,Very Low,False,False
+469,2021-06-11,1387,Low,3,Very Low,False,False
+470,2021-06-12,1239,Low,1,Very Low,False,False
+471,2021-06-13,1041,Low,3,Very Low,False,False
+472,2021-06-14,879,Low,3,Very Low,False,False
+473,2021-06-15,1040,Low,1,Very Low,False,False
+474,2021-06-16,1024,Low,4,Very Low,False,False
+475,2021-06-17,1059,Low,4,Very Low,False,False
+476,2021-06-18,890,Low,3,Very Low,False,False
+477,2021-06-19,692,Low,1,Very Low,False,False
+478,2021-06-20,710,Low,1,Very Low,False,False
+479,2021-06-21,569,Low,1,Very Low,False,False
+480,2021-06-22,698,Low,6,Very Low,False,False
+481,2021-06-23,665,Low,1,Very Low,False,False
+482,2021-06-24,696,Low,1,Very Low,False,False
+483,2021-06-25,646,Low,5,Very Low,False,False
+484,2021-06-26,555,Low,0,Very Low,False,False
+485,2021-06-27,501,Low,1,Very Low,False,False
+486,2021-06-28,567,Low,0,Very Low,False,False
+487,2021-06-29,527,Low,4,Very Low,False,False
+488,2021-06-30,636,Low,0,Very Low,False,False
+489,2021-07-01,822,Low,4,Very Low,False,False
+490,2021-07-02,940,Low,6,Very Low,False,False
+491,2021-07-03,1120,Low,1,Very Low,True,True
+492,2021-07-04,1200,Low,0,Very Low,True,False
+493,2021-07-05,1512,Low,1,Very Low,True,True
+494,2021-07-06,2192,Low,1,Very Low,True,True
+495,2021-07-07,3601,Intermediate,2,Very Low,True,True
+496,2021-07-08,5393,Intermediate,2,Very Low,True,False
+497,2021-07-09,6882,Intermediate,2,Very Low,True,False
+498,2021-07-10,10224,High,1,Very Low,True,False
+499,2021-07-11,9303,Intermediate,1,Very Low,True,False
+500,2021-07-12,8431,Intermediate,0,Very Low,True,False
+501,2021-07-13,7801,Intermediate,3,Very Low,True,False
+502,2021-07-14,10405,High,1,Very Low,True,False
+503,2021-07-15,10978,High,3,Very Low,True,False
+504,2021-07-16,11258,High,2,Very Low,True,True
+505,2021-07-17,11050,High,0,Very Low,True,True
+506,2021-07-18,10183,High,1,Very Low,True,False
+507,2021-07-19,8874,Intermediate,2,Very Low,True,True
+508,2021-07-20,6776,Intermediate,5,Very Low,True,True
+509,2021-07-21,6856,Intermediate,3,Very Low,True,True
+510,2021-07-22,6233,Intermediate,3,Very Low,False,True
+511,2021-07-23,6370,Intermediate,3,Very Low,False,True
+512,2021-07-24,5259,Intermediate,4,Very Low,False,True
+513,2021-07-25,4607,Intermediate,4,Very Low,False,True
+514,2021-07-26,3834,Intermediate,1,Very Low,False,True
+515,2021-07-27,3979,Intermediate,3,Very Low,False,True
+516,2021-07-28,3444,Intermediate,8,Very Low,False,True
+517,2021-07-29,4452,Intermediate,3,Very Low,False,True
+518,2021-07-30,3432,Intermediate,6,Very Low,False,True
+519,2021-07-31,2942,Intermediate,6,Very Low,False,True
+520,2021-08-01,2313,Low,2,Very Low,False,True
+521,2021-08-02,2099,Low,0,Very Low,False,True
+522,2021-08-03,2209,Low,3,Very Low,False,True
+523,2021-08-04,2792,Intermediate,7,Very Low,False,True
+524,2021-08-05,3331,Intermediate,11,Low,False,True
+525,2021-08-06,2901,Intermediate,8,Very Low,False,True
+526,2021-08-07,2396,Low,9,Very Low,False,True
+527,2021-08-08,2307,Low,2,Very Low,False,True
+528,2021-08-09,2037,Low,2,Very Low,False,True
+529,2021-08-10,2162,Low,7,Very Low,False,True
+530,2021-08-11,2119,Low,9,Very Low,False,True
+531,2021-08-12,2566,Intermediate,7,Very Low,False,True
+532,2021-08-13,2664,Intermediate,6,Very Low,False,True
+533,2021-08-14,2304,Low,6,Very Low,False,False
+534,2021-08-15,2260,Low,3,Very Low,False,False
+535,2021-08-16,2236,Low,6,Very Low,False,True
+536,2021-08-17,2304,Low,5,Very Low,False,False
+537,2021-08-18,2785,Intermediate,7,Very Low,False,False
+538,2021-08-19,2484,Low,6,Very Low,True,False
+539,2021-08-20,2208,Low,6,Very Low,True,False
+540,2021-08-21,2440,Low,8,Very Low,True,True
+541,2021-08-22,2461,Low,6,Very Low,True,True
+542,2021-08-23,2382,Low,4,Very Low,True,False
+543,2021-08-24,2459,Low,11,Low,True,True
+544,2021-08-25,2816,Intermediate,7,Very Low,True,True
+545,2021-08-26,2613,Intermediate,7,Very Low,True,True
+546,2021-08-27,2798,Intermediate,4,Very Low,True,True
+547,2021-08-28,2450,Low,9,Very Low,True,True
+548,2021-08-29,2311,Low,2,Very Low,True,False
+549,2021-08-30,2171,Low,2,Very Low,True,False
+550,2021-08-31,2274,Low,12,Low,True,False
+551,2021-09-01,2788,Intermediate,2,Very Low,True,False
+552,2021-09-02,2789,Intermediate,5,Very Low,True,False
+553,2021-09-03,2530,Intermediate,9,Very Low,False,False
+554,2021-09-04,2748,Intermediate,9,Very Low,False,False
+555,2021-09-05,2358,Low,2,Very Low,False,False
+556,2021-09-06,2114,Low,3,Very Low,False,False
+557,2021-09-07,2472,Low,8,Very Low,True,False
+558,2021-09-08,2794,Intermediate,7,Very Low,True,True
+559,2021-09-09,2357,Low,3,Very Low,False,True
+560,2021-09-10,2676,Intermediate,4,Very Low,True,False
+561,2021-09-11,2208,Low,6,Very Low,False,False
+562,2021-09-12,2095,Low,1,Very Low,False,False
+563,2021-09-13,1751,Low,4,Very Low,False,False
+564,2021-09-14,2001,Low,10,Very Low,False,False
+565,2021-09-15,2375,Low,7,Very Low,False,False
+566,2021-09-16,2090,Low,7,Very Low,False,False
+567,2021-09-17,2126,Low,10,Very Low,False,True
+568,2021-09-18,2014,Low,4,Very Low,False,True
+569,2021-09-19,1664,Low,3,Very Low,False,True
+570,2021-09-20,1353,Low,9,Very Low,False,True
+571,2021-09-21,1663,Low,5,Very Low,False,True
+572,2021-09-22,1894,Low,4,Very Low,False,True
+573,2021-09-23,1810,Low,12,Low,False,True
+574,2021-09-24,1693,Low,3,Very Low,False,False
+575,2021-09-25,1600,Low,2,Very Low,False,False
+576,2021-09-26,1599,Low,1,Very Low,False,False
+577,2021-09-27,1386,Low,4,Very Low,False,False
+578,2021-09-28,1717,Low,8,Very Low,False,False
+579,2021-09-29,1751,Low,6,Very Low,False,False
+580,2021-09-30,1701,Low,2,Very Low,False,False
+581,2021-10-01,1717,Low,6,Very Low,False,False
+582,2021-10-02,1669,Low,5,Very Low,False,False
+583,2021-10-03,1602,Low,1,Very Low,False,False
+584,2021-10-04,1610,Low,2,Very Low,True,False
+585,2021-10-05,1899,Low,7,Very Low,True,False
+586,2021-10-06,1904,Low,3,Very Low,True,False
+587,2021-10-07,2733,Intermediate,6,Very Low,True,True
+588,2021-10-08,2769,Intermediate,2,Very Low,True,False
+589,2021-10-09,2483,Low,2,Very Low,True,False
+590,2021-10-10,2735,Intermediate,0,Very Low,True,False
+591,2021-10-11,2249,Low,5,Very Low,True,False
+592,2021-10-12,2883,Intermediate,6,Very Low,True,False
+593,2021-10-13,3718,Intermediate,12,Low,True,True
+594,2021-10-14,3635,Intermediate,4,Very Low,True,True
+595,2021-10-15,3695,Intermediate,6,Very Low,True,True
+596,2021-10-16,3691,Intermediate,5,Very Low,True,True
+597,2021-10-17,3659,Intermediate,6,Very Low,True,True
+598,2021-10-18,3348,Intermediate,1,Very Low,True,True
+599,2021-10-19,3914,Intermediate,13,Low,True,True
+600,2021-10-20,4581,Intermediate,9,Very Low,True,True
+601,2021-10-21,5177,Intermediate,7,Very Low,True,True
+602,2021-10-22,5836,Intermediate,10,Very Low,True,True
+603,2021-10-23,5671,Intermediate,25,Low,True,True
+604,2021-10-24,6302,Intermediate,1,Very Low,True,True
+605,2021-10-25,5298,Intermediate,6,Very Low,True,True
+606,2021-10-26,5754,Intermediate,19,Low,True,True
+607,2021-10-27,7262,Intermediate,17,Low,True,True
+608,2021-10-28,7666,Intermediate,15,Low,True,True
+609,2021-10-29,7387,Intermediate,13,Low,True,True
+610,2021-10-30,7941,Intermediate,13,Low,True,True
+611,2021-10-31,8151,Intermediate,14,Low,True,True
+612,2021-11-01,7690,Intermediate,11,Low,True,True
+613,2021-11-02,7692,Intermediate,18,Low,True,True
+614,2021-11-03,9146,Intermediate,33,Intermediate,True,True
+615,2021-11-04,10204,High,24,Low,True,True
+616,2021-11-05,10874,High,20,Low,True,True
+617,2021-11-06,11970,High,36,Intermediate,True,True
+618,2021-11-07,11340,High,8,Very Low,True,True
+619,2021-11-08,11757,High,22,Low,True,True
+620,2021-11-09,11284,High,28,Intermediate,True,True
+621,2021-11-10,12645,High,25,Low,True,True
+622,2021-11-11,16249,High,25,Low,True,True
+623,2021-11-12,16053,High,31,Intermediate,True,True
+624,2021-11-13,13801,High,32,Intermediate,True,True
+625,2021-11-14,11975,High,7,Very Low,True,True
+626,2021-11-15,19192,High,16,Low,True,True
+627,2021-11-16,20143,Very High,35,Intermediate,True,False
+628,2021-11-17,20702,Very High,44,Intermediate,True,True
+629,2021-11-18,23562,Very High,34,Intermediate,True,True
+630,2021-11-19,20974,Very High,39,Intermediate,True,True
+631,2021-11-20,21757,Very High,55,High,True,True
+632,2021-11-21,20632,Very High,11,Low,True,True
+633,2021-11-22,22985,Very High,29,Intermediate,True,True
+634,2021-11-23,22949,Very High,53,High,True,True
+635,2021-11-24,23699,Very High,50,Intermediate,True,True
+636,2021-11-25,22174,Very High,61,High,True,True
+637,2021-11-26,21264,Very High,59,High,True,True
+638,2021-11-27,21989,Very High,54,High,True,True
+639,2021-11-28,22067,Very High,43,Intermediate,True,True
+640,2021-11-29,21454,Very High,33,Intermediate,True,True
+641,2021-11-30,22057,Very High,65,High,True,True
+642,2021-12-01,18497,High,43,Intermediate,False,True
+643,2021-12-02,23030,Very High,65,High,False,True
+644,2021-12-03,21476,Very High,61,High,False,True
+645,2021-12-04,22600,Very High,56,High,False,True
+646,2021-12-05,23050,Very High,26,Intermediate,False,False
+647,2021-12-06,20977,Very High,34,Intermediate,False,False
+648,2021-12-07,17941,High,68,High,False,False
+649,2021-12-08,18053,High,71,High,False,True
+650,2021-12-09,19730,High,78,High,False,True
+651,2021-12-10,17444,High,84,High,False,True
+652,2021-12-11,17744,High,69,High,False,True
+653,2021-12-12,16603,High,39,Intermediate,False,True
+654,2021-12-13,13787,High,28,Intermediate,False,True
+655,2021-12-14,12796,High,74,High,False,True
+656,2021-12-15,13496,High,41,Intermediate,False,True
+657,2021-12-16,16346,High,54,High,False,False
+658,2021-12-17,15337,High,59,High,False,False
+659,2021-12-18,14660,High,50,Intermediate,False,False
+660,2021-12-19,13256,High,48,Intermediate,False,False
+661,2021-12-20,12140,High,34,Intermediate,False,False
+662,2021-12-21,9391,Intermediate,31,Intermediate,False,False
+663,2021-12-22,13392,High,48,Intermediate,False,False
+664,2021-12-23,13315,High,40,Intermediate,False,False
+665,2021-12-24,12466,High,40,Intermediate,False,False
+666,2021-12-25,12555,High,45,Intermediate,False,False
+667,2021-12-26,11892,High,11,Low,False,False
+668,2021-12-27,11428,High,12,Low,False,False
+669,2021-12-28,9134,Intermediate,75,High,False,False
+670,2021-12-29,15696,High,50,Intermediate,False,False
+671,2021-12-30,14759,High,40,Intermediate,False,False
+672,2021-12-31,16680,High,33,Intermediate,True,False
+673,2022-01-01,15582,High,27,Intermediate,True,False
+674,2022-01-02,17426,High,6,Very Low,True,False
+675,2022-01-03,14493,High,14,Low,True,True
+676,2022-01-04,18504,High,19,Low,True,False
+677,2022-01-05,24437,Very High,38,Intermediate,True,False
+678,2022-01-06,24525,Very High,12,Low,True,False
+679,2022-01-07,34726,Very High,24,Low,True,False
+680,2022-01-08,27784,Very High,8,Very Low,True,False
+681,2022-01-09,32335,Very High,7,Very Low,True,False
+682,2022-01-10,27737,Very High,7,Very Low,True,False
+683,2022-01-11,28856,Very High,18,Low,True,False
+684,2022-01-12,31907,Very High,8,Very Low,True,False
+685,2022-01-13,33144,Very High,13,Low,True,False
+686,2022-01-14,35195,Very High,16,Low,True,False
+687,2022-01-15,31624,Very High,6,Very Low,True,False
+688,2022-01-16,35778,Very High,6,Very Low,True,False
+689,2022-01-17,41768,Very High,3,Very Low,True,False
+690,2022-01-18,31018,Very High,10,Very Low,True,False
+691,2022-01-19,37982,Very High,10,Very Low,True,False
+692,2022-01-20,39720,Very High,10,Very Low,True,False
+693,2022-01-21,57192,Very High,11,Low,True,False
+694,2022-01-22,46152,Very High,8,Very Low,True,False
+695,2022-01-23,64596,Very High,1,Very Low,True,False
+696,2022-01-24,64125,Very High,8,Very Low,True,False
+697,2022-01-25,53482,Very High,7,Very Low,True,False
+698,2022-01-26,57707,Very High,11,Low,True,False
+699,2022-01-27,64225,Very High,14,Low,True,False
+700,2022-01-28,72994,Very High,8,Very Low,True,True
+701,2022-01-29,38902,Very High,8,Very Low,True,False
+702,2022-01-30,74669,Very High,3,Very Low,True,True
+703,2022-01-31,110491,Very High,4,Very Low,True,False
+704,2022-02-01,104597,Very High,14,Low,True,True
+705,2022-02-02,66143,Very High,10,Very Low,True,True
+706,2022-02-03,81662,Very High,10,Very Low,True,False
+707,2022-02-04,71152,Very High,5,Very Low,True,False
+708,2022-02-05,53062,Very High,10,Very Low,True,False
+709,2022-02-06,79982,Very High,7,Very Low,True,True
+710,2022-02-07,81530,Very High,5,Very Low,True,True
+711,2022-02-08,390971,Very High,8,Very Low,True,False
+712,2022-02-09,86497,Very High,7,Very Low,True,False
+713,2022-02-10,86720,Very High,15,Low,True,False
+714,2022-02-11,80597,Very High,20,Low,True,True
+715,2022-02-12,70298,Very High,11,Low,True,True
+716,2022-02-13,60066,Very High,7,Very Low,True,True
+717,2022-02-14,55025,Very High,6,Very Low,True,True
+718,2022-02-15,53465,Very High,12,Low,False,True
+719,2022-02-16,63697,Very High,18,Low,False,True
+720,2022-02-17,56316,Very High,18,Low,False,True
+721,2022-02-18,49242,Very High,15,Low,False,True
+722,2022-02-19,33523,Very High,10,Very Low,False,True
+723,2022-02-20,36285,Very High,8,Very Low,False,True
+724,2022-02-21,35915,Very High,8,Very Low,False,True
+725,2022-02-22,34536,Very High,17,Low,False,True
+726,2022-02-23,41439,Very High,11,Low,False,False
+727,2022-02-24,41150,Very High,13,Low,False,False
+728,2022-02-25,37552,Very High,8,Very Low,False,False
+729,2022-02-26,32898,Very High,6,Very Low,False,False
+730,2022-02-27,27408,Very High,3,Very Low,False,False
+731,2022-02-28,28867,Very High,6,Very Low,False,False
+732,2022-03-01,36528,Very High,16,Low,False,False
+733,2022-03-02,48477,Very High,10,Very Low,False,False
+734,2022-03-03,58312,Very High,6,Very Low,False,False
+735,2022-03-04,68396,Very High,8,Very Low,True,False
+736,2022-03-05,67297,Very High,9,Very Low,True,False
+737,2022-03-06,66945,Very High,3,Very Low,True,False
+738,2022-03-07,64295,Very High,5,Very Low,True,False
+739,2022-03-08,66650,Very High,12,Low,True,False
+740,2022-03-09,74680,Very High,11,Low,True,False
+741,2022-03-10,75146,Very High,39,Intermediate,True,True
+742,2022-03-11,69341,Very High,17,Low,True,True
+743,2022-03-12,60259,Very High,11,Low,True,True
+744,2022-03-13,52799,Very High,8,Very Low,True,True
+745,2022-03-14,46497,Very High,6,Very Low,True,True
+746,2022-03-15,53399,Very High,12,Low,False,True
+747,2022-03-16,60734,Very High,13,Low,False,True
+748,2022-03-17,54393,Very High,17,Low,False,False
+749,2022-03-18,49286,Very High,19,Low,False,False
+750,2022-03-19,41589,Very High,11,Low,False,False
+751,2022-03-20,34779,Very High,8,Very Low,False,False
+752,2022-03-21,31871,Very High,4,Very Low,False,False
+753,2022-03-22,40525,Very High,23,Low,False,False
+754,2022-03-23,42779,Very High,15,Low,False,False
+755,2022-03-24,39170,Very High,16,Low,False,True
+756,2022-03-25,34948,Very High,19,Low,False,True
+757,2022-03-26,28113,Very High,21,Low,False,True
+758,2022-03-27,24977,Very High,6,Very Low,False,True
+759,2022-03-28,21508,Very High,10,Very Low,False,True
+760,2022-03-29,30713,Very High,17,Low,False,True
+761,2022-03-30,27749,Very High,32,Intermediate,False,True
+762,2022-03-31,25493,Very High,25,Low,False,True
+763,2022-04-01,21781,Very High,9,Very Low,False,True
+764,2022-04-02,16889,High,14,Low,False,True
+765,2022-04-03,12360,High,7,Very Low,False,True
+766,2022-04-04,10794,High,9,Very Low,False,True
+767,2022-04-05,14064,High,15,Low,False,True
+768,2022-04-06,13047,High,23,Low,False,False
+769,2022-04-07,12828,High,9,Very Low,False,False
+770,2022-04-08,10901,High,15,Low,False,False
+771,2022-04-09,9907,Intermediate,15,Low,False,False
+772,2022-04-10,7165,Intermediate,2,Very Low,False,False
+773,2022-04-11,6611,Intermediate,3,Very Low,False,False
+774,2022-04-12,6285,Intermediate,14,Low,False,False
+775,2022-04-13,4941,Intermediate,21,Low,False,False
+776,2022-04-14,4686,Intermediate,11,Low,False,False
+777,2022-04-15,4132,Intermediate,8,Very Low,False,False
+778,2022-04-16,3517,Intermediate,5,Very Low,False,False
+779,2022-04-17,2828,Intermediate,1,Very Low,False,False
+780,2022-04-18,2069,Low,2,Very Low,False,False
+781,2022-04-19,2493,Low,5,Very Low,False,False
+782,2022-04-20,3497,Intermediate,11,Low,False,False
+783,2022-04-21,2987,Intermediate,18,Low,False,False
+784,2022-04-22,2589,Intermediate,9,Very Low,False,False
+785,2022-04-23,2111,Low,9,Very Low,False,False
+786,2022-04-24,1575,Low,5,Very Low,False,False
+787,2022-04-25,1380,Low,7,Very Low,False,True
+788,2022-04-26,1904,Low,6,Very Low,False,True
+789,2022-04-27,1746,Low,2,Very Low,False,True
+790,2022-04-28,1243,Low,3,Very Low,False,False
+791,2022-04-29,1668,Low,4,Very Low,False,False
+792,2022-04-30,1601,Low,6,Very Low,False,False
+793,2022-05-01,1293,Low,4,Very Low,False,False
+794,2022-05-02,1286,Low,3,Very Low,False,False
+795,2022-05-03,1750,Low,6,Very Low,False,False
+796,2022-05-04,1673,Low,3,Very Low,False,False
+797,2022-05-05,1684,Low,4,Very Low,False,False
+798,2022-05-06,1301,Low,2,Very Low,False,False
+799,2022-05-07,1493,Low,3,Very Low,False,False
+800,2022-05-08,1232,Low,2,Very Low,False,False
+801,2022-05-09,1032,Low,2,Very Low,False,False
+802,2022-05-10,1580,Low,3,Very Low,False,False
+803,2022-05-11,1400,Low,7,Very Low,False,False
+804,2022-05-12,1431,Low,4,Very Low,False,False
+805,2022-05-13,1273,Low,0,Very Low,False,False
