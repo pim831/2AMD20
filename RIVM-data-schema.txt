@@ -1,0 +1,17 @@
+Column_name = column_description
+
+IC-Data:
+Date_of_statistics 	= Date of the statistics in this row (can also be seen as an id as this value is always unique)
+IC_admission 		= Raw integer representing the number of IC_admissions registrated for this date.
+IC_admission_level 	= Level of ic adimssions, based on which range the ic_admissions is in, used the ranges of <5 (very low) 5-20 (low), 20-40 (intermediate), 40-70 (high), >70 (very high). (Ranges are based on general fall-off points in the distribution of the IC admissions over the looked at timeframe)
+Admission_increase 	= Boolean value indicating if the average admission count of the last 7 days has increased from the average admission count of the 7 days before that
+
+
+Deaths/Reported-cases:
+Date_of_puplication 	= Date of the statistics in this row (can also be seen as an id as this value is always unique)
+Total_reported 		= Raw integer representing the number of reported Covid cases for this date
+Deceased		= Raw integer representing the number of people who have been established to have died of Covid on this date
+Cases_Increase		= Boolean value indicating if the average number of reported Covid cases of the last 7 days has increased from the average of the 7 days before that
+Deaths_Increase		= Boolean value indicating if the average number of Covid deaths of the last 7 days has increased from the average of the 7 days before that
+Cases_level		= Level of reported Covid cases, based on the range that Total_reported is in, used the ranges of  <250 (very low), 250-2.500 (low), 2.500-10.000 (intermediate), 10.000-20.000 (high), >20.000 (very high). (Ranges are based on general fall-off points in the distribution of the reported cases over the looked at timeframe) 
+Deaths_level		= Level of reported Covid deaths, based on the range that Deceased is in, used the ranges of <10 (very low), 10-25 (low), 25-50 (intermediate), 50-125 (high), >125 (very high). (Ranges are based on general fall-off points in the distribution of the deaths over the looked at timeframe)
