@@ -1,0 +1,16 @@
+Column_name = column_description
+
+Full-News-paper-data:
+Medium          = Name of the newspaper (i.e. publisher of the news article). (Single String value)
+Datum           = Date on which the news article was published. (String in the format YYYY-MM-DD)
+Positive word   = Word in the title of the article which is associated with positivity. (Single string value)
+Negative word   = Word in the title of the article which is associated with negativity. (Single string value)
+Anger word      = Word in the title of the article which is associated with anger. (Single string value)
+Disgust word    = Word in the title of the article which is associated with disgust. (Single string value)
+Fear word       = Word in the title of the article which is associated with fear. (Single string value)
+Joy word        = Word in the title of the article which is associated with joy. (Single string value)
+Sadness word    = Word in the title of the article which is associated with sadness. (Single string value)
+
+News-paper-count:
+Datum               = Date for which news articles were published, can be used as ID as it is always unique. (String in the format YYYY-MM-DD)
+News Paper Count    = Integer representing how much news papers related to Covid were published for this date. (64-bit Integer)
